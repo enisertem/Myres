@@ -1,0 +1,5 @@
+C:\Users\enis.ertem\Source\Repos\enisertem\Myres\MyRes.DataAccess\bin\Debug\netcoreapp3.1\MyRes.DataAccess.deps.json
+C:\Users\enis.ertem\Source\Repos\enisertem\Myres\MyRes.DataAccess\bin\Debug\netcoreapp3.1\MyRes.DataAccess.dll
+C:\Users\enis.ertem\Source\Repos\enisertem\Myres\MyRes.DataAccess\obj\Debug\netcoreapp3.1\MyRes.DataAccess.csprojAssemblyReference.cache
+C:\Users\enis.ertem\Source\Repos\enisertem\Myres\MyRes.DataAccess\obj\Debug\netcoreapp3.1\MyRes.DataAccess.AssemblyInfoInputs.cache
+C:\Users\enis.ertem\Source\Repos\enisertem\Myres\MyRes.DataAccess\obj\Debug\netcoreapp3.1\MyRes.DataAccess.AssemblyInfo.cs

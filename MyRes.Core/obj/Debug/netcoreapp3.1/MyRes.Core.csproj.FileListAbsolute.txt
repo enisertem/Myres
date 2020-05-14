@@ -1,0 +1,5 @@
+C:\Users\enis.ertem\Source\Repos\enisertem\Myres\MyRes.Core\bin\Debug\netcoreapp3.1\MyRes.Core.deps.json
+C:\Users\enis.ertem\Source\Repos\enisertem\Myres\MyRes.Core\bin\Debug\netcoreapp3.1\MyRes.Core.dll
+C:\Users\enis.ertem\Source\Repos\enisertem\Myres\MyRes.Core\obj\Debug\netcoreapp3.1\MyRes.Core.csprojAssemblyReference.cache
+C:\Users\enis.ertem\Source\Repos\enisertem\Myres\MyRes.Core\obj\Debug\netcoreapp3.1\MyRes.Core.AssemblyInfoInputs.cache
+C:\Users\enis.ertem\Source\Repos\enisertem\Myres\MyRes.Core\obj\Debug\netcoreapp3.1\MyRes.Core.AssemblyInfo.cs
