@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "MyRes.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MyRes.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyRes.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MyRes.Core/1.0.0": {
+      "type": "project",
+      "path": "../MyRes.Core/MyRes.Core.csproj",
+      "msbuildProject": "../MyRes.Core/MyRes.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "MyRes.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\enis.ertem\\.nuget\\packages\\": {},
@@ -41,7 +60,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\enis.ertem\\Source\\Repos\\enisertem\\Myres\\MyRes.Core\\MyRes.Core.csproj": {
+              "projectPath": "C:\\Users\\enis.ertem\\Source\\Repos\\enisertem\\Myres\\MyRes.Core\\MyRes.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
